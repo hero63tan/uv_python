@@ -1,0 +1,253 @@
+數學:
+
+機械/深度學習
+
+統計(ML)	機器學習
+微積分(偏微分)	深度學習
+線性代數	深度學習	類神經網路(NN)
+
+圖解統計學
+圖解微積分
+圖解線性代數
+
+---------------------------------------------------------------
+
+類神經網路(NN)家族
+
+
+START--->
+ANN(Artificial Neural Network，人工神經網路)--->
+BPN(Backpropagation Network，倒傳遞類神經網路)--->
+DNN(Deep Neural Network，深度神經網路)--->
+CNN(Convolutional Neural Network，捲積神經網路)(圖文識別)--->
+RNN(Recurrent Neural Network，循環(遞迴)神經網路)(文本分析)--->
+LSTM(Long Short-Term Memory，長短期記憶網路)--->
+GAN(Generative Adversarial Network，生成對抗網路)--->
+GNN(Graph Neural Network，圖神經網路)--->
+
+
+
+
+
+
+
+---------------------------------------------------------------
+
+工具
+
+[Gemini Notebook](/)
+
+https://www.kaggle.com/
+
+ipas ai 應用規劃師初級
+
+https://picsee.io/ 短網址
+
+https://reurl.cc/27z4La 數位學習
+
+https://www.omg.org/	物件管理組織®標準制定組織
+
+
+老師說：figma tutorial
+老師說：Figma for Edu Basics 
+老師說：https://lexica.art/
+
+
+老師說：https://meyerweb.com/eric/tools/css/reset/
+老師說：https://flukeout.github.io/
+老師說：prettier
+老師說：https://www.figma.com/design/Ks0W2YSYZQkKeD8ZCSyr3b/Figma-Variants-Playground--Community--%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF--Copy-?node-id=1017-0&t=dZJ1LdjI1WHktTzH-1
+
+
+
+
+
+UML 圖上 +-#~
+
+
+
+
+
+小朋友 單機遊戲
+麻將 鋪克牌
+賭場 號碼
+百家樂 賽馬
+德州鋪課
+
+
+
+
+
+
+
+HI,專業的夥伴,我們現在來討論以下事項
+1.人設:公部門職訓單位外聘講師
+2.情境:針對AI程式設計班學員,教授物件導向基礎概念
+3.要完成事項:請協助我將所附圖片內容的項目,每一個名詞都要以專業的方式解釋,並附上對應的python程式碼,並製成圖卡
+4.請記住,一個名詞,一個專業解釋,附上python程式碼,並完成一張圖卡
+
+這一次我的情境為:
+1.公訓單位的AI課程訓練師
+2.我正在教授物件導向概論(以python實作)
+
+請協助我將此圖表中所敘述的物件導向知識,每個項目附上詳細圖解說明(包含python程式碼)
+
+
+
+
+
+新一代 Keras 3.x 重磅回歸：跨 TensorFlow 與 PyTorch 建構 Transformer、CNN、RNN、LSTM 深度學習模型
+作者： 陳會安  
+ 新功能介紹
+出版社：旗標  
+ 新功能介紹
+出版日期：2024/04/22
+語言：繁體中文
+定價：750元
+優惠價：79折592元
+優惠期限：2026年11月08日止
+
+
+書名：最新C++物件導向程式設計實例入門 <增訂第三版>
+書號：PG20266	作者：高橋麻奈 著	ISBN： 978-986-201-119-5
+定價：NT$490元	印刷：雙色	頁數：592頁
+書籍規格：17*23	上市日：2008/4/25	譯者：博碩文化 編譯
+學習定位：初階	本書附件：CD	 
+前往購買 >> 天瓏	類別：電腦技術	 
+
+
+物件導向系統分析與設計 (第九版)：結合MDA與UML
+作者： 吳仁和  
+ 新功能介紹
+出版社：智勝  
+ 新功能介紹
+出版日期：2026/07/30
+語言：繁體中文
+定價：800元
+優惠價：95折760元
+本商品單次購買10本9折720元
+
+
+
+物件導向的基本原理,並以python語法為範例
+
+我是公部門職訓中心擔任AI程式設計講師,主要是針對沒有相關經驗的學員,討論以下主題進行討論,每個主題要以圖片說明,並輔助python程式範例
+1.抽象類別的原理與使用時機
+2.繼承中的多重繼承
+3.多型的多重繼承的原理與使用時機
+4.多型與抽象類別和介面的關係
+
+介紹 GOF 23 設計模式的前3項,並以圖片呈現,加上Python程式範例
+
+介紹 GOF 23 設計模式的 Strategy策略模式(Strategy Pattern),生成圖片,加上Python程式範例
+
+請協助完成以下事項:
+1.介紹GOF 23的外觀模式
+2.針對沒有經驗的學員
+3.詳細的文字解說,並製作成一張示意圖片
+4.在依據外觀模式製作UML圖片
+5.付上Python語法
+
+針對上一張圖片,將Python語法示意圖,獨立成一張圖片
+
+
+
+
+! pip install -U NumPy
+在colab環境安裝套件要加!
+
+https://www.kaggle.com/
+
+
+
+
+
+Hi 專業的夥伴,現在我們來討論以下事項
+1.人設:台灣新竹某職訓中心委辦AI程式課程外聘講師
+2.情境:教授iPAS AI 管理師初級認證
+3.時數:每天7小時,共2天14小時
+4.教授課綱依據115.06更新,AI應用規劃師,評鑑內容範圍參考
+(網址https://www.ipas.org.tw/api/proxy/uploads/certification_attachment/8039a24c849c4fb4a6dd7f942576d4f8/AI%E6%87%89%E7%94%A8%E8%A6%8F%E5%8A%83%E5%B8%AB%E8%83%BD%E5%8A%9B%E9%91%91%E5%AE%9A_%E8%A9%95%E9%91%91%E5%85%A7%E5%AE%B9%E7%AF%84%E5%9C%8D%E5%8F%83%E8%80%83_11506_20260602161501.pdf)
+
+
+
+SELECT Left(T_STUDENTS.班級座號,3) AS Expr1, Sum(T_RECORDS.公假) AS 公假之總計, Sum(T_RECORDS.事假) AS 事假之總計, Sum(T_RECORDS.病假) AS 病假之總計, Sum(T_RECORDS.曠課) AS 曠課之總計
+FROM T_STUDENTS INNER JOIN T_RECORDS ON T_STUDENTS.班級座號 = T_RECORDS.班級座號
+GROUP BY Left(T_STUDENTS.班級座號,3);
+
+
+
+
+
+
+
+
+
+
+//使用 Python 的 yfinance 套件抓取金融歷史數據非常直覺且方便。以下為您整理完整的實作步驟與程式碼範例，帶您快速抓取黃金與外匯（如美元指數、主要貨幣對）的歷史資料。
+pip install yfinance pandas
+
+
+-----------------------------------------------------------------
+或在命令列中建立一個新的儲存庫
+echo "# __test2__" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hero63tan/__test2__.git
+git push -u origin main
+或從命令列推送現有儲存庫
+git remote add origin https://github.com/hero63tan/__test2__.git
+git branch -M main
+git push -u origin main
+
+
+
+
+git remote add origin https://github.com/hero63tan/git_repo.git
+git branch -M main
+git push -u origin main
+
+
+
+python -m venv .venv
+conda
+anaconda
+
+
+//安裝 虛擬環境
+uv init --no-package
+.venv
+
+
+//進入&離開 虛擬環境
+.venv\Scripts\activate
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+deactivate
+
+//告訴git不要管理的檔案
+.gitignore
+	.venv/
+	.gitignore
+
+//安裝 虛擬環境的終端機
+uv init
+uv add --dev jupyterlab-lsp basedpyright
+
+//進入 終端機
+uv run jupyter lab
+
+//虛擬環境 執行
+uv run ./2026_11_11/practice2.py
+
+
+git remote set-url origin https://github.com/hero63tan/uv_python.git
+git remote add origin https://github.com/hero63tan/uv_python.git
+
+git push -u origin main
+
+
+我是python初學者,我想了解python如何操作檔案,請建立一個readFile.md,讓我可以一步一步學習,必須提供範例
+
+
