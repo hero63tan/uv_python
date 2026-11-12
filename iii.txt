@@ -218,7 +218,11 @@ anaconda
 
 //安裝 虛擬環境
 uv init --no-package
-.venv
+uv venv
+(uv run lesson1.py)
+(git remote add origin https://github.com/hero63tan/__ml_2026_11_11__.git)
+(git branch -M main)
+(git push -u origin main)
 
 
 //進入&離開 虛擬環境
