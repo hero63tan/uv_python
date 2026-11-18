@@ -252,6 +252,75 @@ git remote add origin https://github.com/hero63tan/uv_python.git
 git push -u origin main
 
 
+
+
+
+
+
+
+
+
+
+2026/11/18
+
+
+
+//安裝
+Antigravity CLI
+irm https://antigravity.google/cli/install.ps1 | iex
+
+
+//為了安裝 OpenCode 必須先安裝 Node.js
+
+這個錯誤代表 Node.js 其實已經成功安裝了，但因為 PowerShell 的預設安全性限制（執行原則），封鎖了 .ps1 指令稿的執行，導致無法直接執行 npm。
+
+//變更執行原則
+Set-ExecutionPolicy RemoteSigned
+
+npm -v
+
+
+//安裝OpenCode
+https://opencode.ai/product
+npm install -g @opencode/cli
+
+//安裝Herdr
+https://herdr.dev/download/
+
+
+
 我是python初學者,我想了解python如何操作檔案,請建立一個readFile.md,讓我可以一步一步學習,必須提供範例
 
 
+
+
+
+> /plan 我今天會教python的function,我要建立一個給學生的講義,必須是markdown檔,
+  主要是如何呼叫function呼叫的方式:引數位置,引數名稱,**.*/一些特別的符號的意義,
+  請建立在2026_11_18_00的資料夾,如果沒有請建立一個資料夾
+
+
+
+> @[gemini.md]
+  請清除內容,更改為
+  1.所有回覆請使用繁體中文
+  2.這個專案使用uv虛擬環境
+
+
+//建立新分支並進入
+git branch
+git switch -c class/2026_11_18入
+git branch
+git switch class/2026_11_18
+
+
+> @2026_11_18/
+  請幫我建立一個markdown檔
+  這是要教學生發生python的"例外處理"
+  由淺至深
+  必須要有範例
+
+
+//合併分支
+git checkout main
+git merge <來源分支名稱>
